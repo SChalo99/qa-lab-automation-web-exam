@@ -1,0 +1,9 @@
+com/nttdata/page/ProductPage.class
+com/nttdata/page/LoginPage.class
+com/nttdata/page/CheckoutPage.class
+com/nttdata/page/MenPage.class
+com/nttdata/page/MenuPage.class
+com/nttdata/stepsdefinitions/StoreStepDefs.class
+com/nttdata/core/DriverManager.class
+com/nttdata/steps/StoreSteps.class
+com/nttdata/runner/RunnerTest.class
